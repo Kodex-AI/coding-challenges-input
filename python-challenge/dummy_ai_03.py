@@ -1,4 +1,4 @@
-# dummy ai 01
+# dummy ai 03
 # https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 # first neural network with keras tutorial
 from numpy import loadtxt
