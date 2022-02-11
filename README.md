@@ -8,8 +8,8 @@ This means in some way letting the user start the process, accessing the github 
 
 The analysis should count the number of hidden layers in the neural network architecture, and also count how many layers have a 'relu' activation function vs. a 'sigmoid' activation function.
 
-This is e.g. how the neural network is initialized: `model = Sequential()`  
-And this is e.g. how a hidden layer is added: `model.add(Dense(8, activation='relu'))`
+This is e.g. how the neural network is initialized in the source code: `model = Sequential()`  
+And this is e.g. how a hidden layer is added in the source code: `model.add(Dense(8, activation='relu'))`
 
 The models should be classified as follows:
 * 1-9 hidden layers: Low transparency risk
